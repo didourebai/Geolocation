@@ -1,0 +1,11 @@
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\bin\Debug\netcoreapp2.0\Geolocation.MobileAppService.deps.json
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\bin\Debug\netcoreapp2.0\Geolocation.MobileAppService.runtimeconfig.json
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\bin\Debug\netcoreapp2.0\Geolocation.MobileAppService.runtimeconfig.dev.json
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\bin\Debug\netcoreapp2.0\Geolocation.MobileAppService.dll
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\Geolocation.MobileAppService.csproj.CoreCompileInputs.cache
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\Geolocation.MobileAppService.AssemblyInfoInputs.cache
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\Geolocation.MobileAppService.AssemblyInfo.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\bin\Debug\netcoreapp2.0\Geolocation.MobileAppService.pdb
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\XamlC.stamp
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\Geolocation.MobileAppService.dll
+E:\MesProjets\Geolocation\Geolocation\Geolocation.MobileAppService\obj\Debug\netcoreapp2.0\Geolocation.MobileAppService.pdb

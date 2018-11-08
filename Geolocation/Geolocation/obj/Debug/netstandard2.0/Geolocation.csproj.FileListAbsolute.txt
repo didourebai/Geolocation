@@ -1,0 +1,17 @@
+E:\MesProjets\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.deps.json
+E:\MesProjets\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.dll
+E:\MesProjets\Geolocation\Geolocation\Geolocation\bin\Debug\netstandard2.0\Geolocation.pdb
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csproj.CoreCompileInputs.cache
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfoInputs.cache
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.AssemblyInfo.cs
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.dll
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.pdb
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\XamlC.stamp
+E:\MesProjets\Geolocation\Geolocation\Geolocation\obj\Debug\netstandard2.0\Geolocation.csprojAssemblyReference.cache
